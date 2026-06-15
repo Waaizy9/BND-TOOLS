@@ -44,9 +44,6 @@
 
 > **BND TOOLS v1.0 — legacy archive**
 
-<br>
-
-### 📦 Active version → [**BND TOOLS v2.0**](https://github.com/waaizy9/BND-TOOLS)
 
 <p align="center">
   <a href="https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD-808080?style=for-the-badge&logo=github&logoColor=white"></a>
