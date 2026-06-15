@@ -1,12 +1,21 @@
+# BND-TOOLS
+
+[![Stars](https://img.shields.io/github/stars/USERNAME/BND-TOOLS?color=0000CD&style=for-the-badge)](https://github.com/USERNAME/BND-TOOLS/stargazers)
+[![Forks](https://img.shields.io/github/forks/USERNAME/BND-TOOLS?color=0000CD&style=for-the-badge)](https://github.com/USERNAME/BND-TOOLS/forks)
+[![Discord](https://img.shields.io/badge/DISCORD-JOIN-0000CD?style=for-the-badge&logo=discord)](https://discord.gg/xxx)
+[![License](https://img.shields.io/badge/LICENSE-MIT-0000CD?style=for-the-badge)](LICENSE)
+
+---
+
 <div align="center">
 
 # 🚀 BND-TOOLS v2.0 — OUT NOW!
 
-[![DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD-BND--TOOLS_V2.0-2244aa?style=for-the-badge)](#)
-[![STAR](https://img.shields.io/badge/⭐_STAR_V2.0-2.2K-2244aa?style=for-the-badge)](#)
-[![OFFICIAL](https://img.shields.io/badge/OFFICIAL-REPOSITORY-2244aa?style=for-the-badge)](#)
+**v2 is live · 150+ tools · custom modules · auto-updates · bilingual UI**
 
-### v2 is live · 150+ tools · custom modules · auto-updates · bilingual UI
+[![DOWNLOAD v2.0](https://img.shields.io/badge/⬇_DOWNLOAD_BND--TOOLS_V2.0-0000CD?style=for-the-badge)](#)
+[![STAR v2.0](https://img.shields.io/badge/⭐_STAR_V2.0-2.2K-0000CD?style=for-the-badge)](#)
+[![OFFICIAL REPO](https://img.shields.io/badge/OFFICIAL-REPOSITORY-0000CD?style=for-the-badge)](#)
 
 *This repo is the v1 archive. Download v2.0 for the current version.*
 
@@ -14,21 +23,12 @@
 
 ---
 
-# BND TOOLS
+## 📦 BND-TOOLS v1.0 — Legacy Archive
 
-[![Stars](https://img.shields.io/github/stars/USERNAME/BND-TOOLS?color=2244aa&style=for-the-badge)](#)
-[![Forks](https://img.shields.io/github/forks/USERNAME/BND-TOOLS?color=2244aa&style=for-the-badge)](#)
-[![Discord](https://img.shields.io/badge/DISCORD-JOIN_SERVER-2244aa?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/LICENSE-MIT-2244aa?style=for-the-badge)](#)
+### 🚀 Active version → [BND-TOOLS v2.0](https://github.com/USERNAME/BND-TOOLS-V2)
 
----
-
-# 📦 BND-TOOLS v1.0 — Legacy Archive
-
-## 🚀 Active version → BND-TOOLS v2.0
-
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-BND--TOOLS_V2.0-2244aa?style=for-the-badge)](#)
-[![STAR](https://img.shields.io/badge/STAR_V2.0-2.2K-2244aa?style=for-the-badge)](#)
+[![DOWNLOAD v2.0](https://img.shields.io/badge/DOWNLOAD_BND--TOOLS_V2.0-0000CD?style=for-the-badge)](#)
+[![STAR v2.0](https://img.shields.io/badge/STAR_V2.0-2.2K-0000CD?style=for-the-badge)](#)
 
 This repository stays online as a **v1 archive**.
 
@@ -36,45 +36,44 @@ New features, updates, modules, improvements, and support are available exclusiv
 
 ---
 
-# 🖥️ Overview
+> **⚖️ Legal notice:** This project is for education and authorized research only.  
+> See DISCLAIMER.md. Do not use against systems or people without permission.
 
-BND-TOOLS is a modern Python-based multitool featuring a powerful dashboard, modular architecture, automatic updates, and a growing ecosystem of utilities.
+---
+
+## 🖥️ Overview
+
+**BND-TOOLS** is a modern Python-based multitool featuring a powerful dashboard, modular architecture, automatic updates, and a growing ecosystem of utilities.
 
 The project combines productivity tools, automation modules, networking utilities, management features, and community integrations into a single platform.
 
 ---
 
-# ⚡ Categories
+## ⚡ Categories
 
-## 🛠️ Utilities
+### 🛠️ Utilities — Page 2/11
 
-| Key | Tool |
-|------|------|
-| 01 | File Manager |
-| 02 | Network Tools |
-| 03 | Process Monitor |
-| 04 | System Information |
-| 05 | Automation Tools |
-| 06+ | Premium Modules |
+| Key | Tool | Key | Tool |
+|------|------|------|------|
+| 01 | File Manager | 02 | Network Tools |
+| 03 | Process Monitor | 04 | System Information |
+| 05 | Automation Tools | 06+ | Premium Modules |
 
 ---
 
-## 🌐 Network
+### 🌐 Network — Page 3/11
 
-| Key | Tool |
-|------|------|
-| 01 | IP Lookup |
-| 02 | Port Scanner |
-| 03 | DNS Tools |
-| 04 | Connectivity Check |
-| 05 | Host Information |
-| 06+ | Premium Modules |
+| Key | Tool | Key | Tool |
+|------|------|------|------|
+| 01 | IP Lookup | 02 | Port Scanner |
+| 03 | DNS Tools | 04 | Connectivity Check |
+| 05 | Host Information | 06+ | Premium Modules |
 
 ---
 
-## 💬 Discord
+### 💬 Discord — Pages 4/11 & 5/11
 
-Server management and moderation utilities.
+Server management and moderation utilities for your own servers.
 
 - Server Information
 - Role Management
@@ -82,21 +81,21 @@ Server management and moderation utilities.
 - Configuration Manager
 - Logging Tools
 
----
-
-## 🔐 Security
-
-| Key | Tool |
-|------|------|
-| 01 | Hash Tools |
-| 02 | Password Generator |
-| 03 | Encryption Utilities |
-| 04 | Token Inspector |
-| 05+ | Premium Modules |
+*Respect Discord Terms of Service at all times.*
 
 ---
 
-## 🎁 Generators
+### 🔐 Security — Page 6/11
+
+| Key | Tool | Key | Tool |
+|------|------|------|------|
+| 01 | Hash Tools | 02 | Password Generator |
+| 03 | Encryption Utilities | 04 | Token Inspector |
+| 05+ | Premium Modules | | |
+
+---
+
+### 🎁 Generators — Page 7/11
 
 - Password Generator
 - UUID Generator
@@ -106,7 +105,15 @@ Server management and moderation utilities.
 
 ---
 
-# 📊 Statistics
+### 🔗 Resource Links — Pages 8/11 & 9/11
+
+Curated public OSINT and research bookmarks (no illegal content).
+
+Examples: OSINT Framework, public search engines, documentation hubs.
+
+---
+
+## 📊 Statistics
 
 | Feature | Count |
 |----------|---------|
@@ -118,22 +125,19 @@ Server management and moderation utilities.
 
 ---
 
-# 📋 Requirements
+## 📋 Requirements
 
-| Dependency | Version |
-|------------|---------|
-| Python | 3.11+ |
-| Node.js | Latest (Optional) |
+| Dependency | Version | Link |
+|------------|---------|------|
+| Python | 3.11+ | [python.org](https://python.org) |
+| Node.js | Latest (optional) | [nodejs.org](https://nodejs.org) |
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 ```bash
-git clone https://github.com/USERNAME/BND-TOOLS.git
-
-cd BND-TOOLS
-
-pip install -r requirements.txt
-
-python main.py
+# 1. Download and extract the ZIP from GitHub
+# 2. Open the BND-TOOLS folder
+# 3. Run setup.bat  →  installs dependencies
+# 4. Run start.bat  →  launches the dashboard
