@@ -1,183 +1,184 @@
 <div align="center">
 
-# 🕵️‍♂️ BND-TOOLS v3.0 — KLASSIFIZIERT
-
-### Freigegeben für operative Analyse · 320+ Module · Echtzeit-OSINT · KI-gestützt
-
-[![⬇ Download v3.0](https://img.shields.io/badge/⬇_Download-BND--Tools%20v3.0-0055FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools-v3.0/archive/refs/heads/main.zip)
-[![⭐ Star v3.0](https://img.shields.io/github/stars/bnd-tools/BND-Tools-v3.0?color=0055FF&style=for-the-badge&label=⭐_Star_v3.0)](https://github.com/bnd-tools/BND-Tools-v3.0/stargazers)
-[![Official repo](https://img.shields.io/badge/Official-BND--Tools%20v3.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools-v3.0)
-
-*Dieses Repo ist das **v2.0 Archiv**. Lade **v3.0** für die aktuelle, 100x bessere Version.*
+![BND Tool](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/1.PNG)
 
 <br>
 
----
+[![Stars](https://img.shields.io/github/stars/bndtools/BND-Tools?color=0055FF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bndtools/BND-Tools/stargazers)
+[![Forks](https://img.shields.io/github/forks/bndtools/BND-Tools?color=0055FF&style=for-the-badge&logoColor=white)](https://github.com/bndtools/BND-Tools/network)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-0055FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W6z9SQgvqc)
+[![License](https://img.shields.io/github/license/bndtools/BND-Tools?color=0055FF&style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11.5-0055FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
 
-![BND Tools](https://raw.githubusercontent.com/bnd-tools/BND-Tools/main/assets/dashboard.png)
+> **BND-TOOL v1.0 — by 1s0e — 11 modules — 500 ⭐ unlocks V2**
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/bnd-tools/BND-Tools?color=0055FF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools/stargazers)
-[![Forks](https://img.shields.io/github/forks/bnd-tools/BND-Tools?color=0033AA&style=for-the-badge&logoColor=white)](https://github.com/bnd-tools/BND-Tools/network)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Secure%20Channel-0055FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bndtools)
-[![License](https://img.shields.io/github/license/bnd-tools/BND-Tools?color=0055FF&style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.12+-0055FF&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Star gif](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/star.gif)](https://github.com/bndtools/BND-Tools)
 
-<br>
-
-> **BND-TOOLS v3.0 — next‑gen intelligence framework**
-
-<br>
-
-### 🚀 Aktiviert die Zukunft → [**BND-TOOLS v3.0**](https://github.com/bnd-tools/BND-Tools-v3.0)
-
-[![Download v3.0](https://img.shields.io/badge/Download-BND--Tools%20v3.0-0055FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools-v3.0/archive/refs/heads/main.zip)
-[![Star v3.0](https://img.shields.io/github/stars/bnd-tools/BND-Tools-v3.0?color=0055FF&style=for-the-badge&label=Star%20v3.0)](https://github.com/bnd-tools/BND-Tools-v3.0/stargazers)
-
-*Dieses Repository bleibt als **v2.0 Archiv** online. Alle neuen Funktionen, Updates und Support gibt es nur für **v3.0**.*
-
-<br>
-
-[![Star](https://raw.githubusercontent.com/bnd-tools/BND-Tools/main/assets/star.gif)](https://github.com/bnd-tools/BND-Tools-v3.0/stargazers)
+### ⭐ Star this repo to support the project and unlock V2 ⭐
 
 </div>
 
 ---
 
-> **⚖️ Rechtlicher Hinweis:** Dieses Projekt dient ausschließlich **staatlich genehmigten Tests, Bildungszwecken und autorisierten Sicherheitsanalysen**.  
-> Siehe [DISCLAIMER.md](DISCLAIMER.md). Nicht gegen Personen oder Systeme ohne schriftliche Genehmigung verwenden.
+## 🖥️ Overview
 
----
-
-## 🖥️ Überblick
-
-**BND-Tools** ist ein terminalbasiertes Multitool in Python mit einer **asynchronen, KI-optimierten TUI**.  
-Es bündelt **320+ Module** für:
-- **Echtzeit-OSINT**
-- **Telemetrie-Analyse**
-- **Deep‑Web‑Scraping**
-- **Forensik & Incident Response**
-- **Discord‑Überwachung (eigene Server)**
-- **Zero‑Trace‑Netzwerkscans**
-
-Nutzung nur auf eigenen oder explizit freigegebenen Systemen.
+**BND-Tool** is an all-in-one terminal-based multitool built in Python with a clean blue-on-black UI. It packs **11 pages** of tools covering OSINT, Discord nuking, IP exploitation, attack tools, generators, crypto utilities, and dark web links — all in one place.
 
 <br>
 
-![Home](https://raw.githubusercontent.com/bnd-tools/BND-Tools/main/assets/home.png)
+![Home](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/2.PNG)
 
 ---
 
-## ⚡ Kategorien (100x verbessert)
+## ⚡ Modules
 
 <br>
 
-### 🔍 OSINT & Aufklärung — Page 2/14
+### 🔍 OSINT — Page 2/11
 
-> Automatisierte öffentliche Datenanalyse + KI‑Cross‑Referenz.
+> Gather intelligence on targets using 14+ tools.
 
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| `01` | **Deep‑Link Hub** (Dark/Clr) | `02` | **OSINT Framework Pro** |
-| `03` | **Persona‑Fingerprint** | `05` | **E‑Mail‑Breach‑Lookup** |
-| `06` | **Telefon‑Tracking** | `07` | **Social‑Profile‑Builder** |
-| `08` | **Forensischer Report** (PDF) | `09` | **Leaked‑DB‑Scanner** |
-| `10` | **Geo‑IP‑Radar** | `11` | **Username‑Tracker** (25+ Sites) |
-| `12` | **Domain‑Intelligence** | `13` | **Social‑Media‑Scraper** |
-| `14` | **VPN/Tor‑Erkennung** | `15` | **KI‑Persona‑Analyse** |
-
----
-
-### 🛠️ Forensik & Response — Page 3/14
-
-> Memory‑Dumping, Log‑Analyse, Live‑Forensik.
+![OSINT](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/3.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
-| `01` | **Email‑Header‑Analyse** | `02` | **Account‑Recovery‑Sim** |
-| `03` | **Network‑Threat‑Scanner** | `04` | **Web‑App‑Fuzzer** |
-| `05` | **SMS‑Spoof‑Test** | `06` | **Memory‑Dumper** |
-| `07` | **Registry‑Forensik** | `08` | **Timeline‑Rebuilder** |
+| `01` | Doxbin | `02` | OSINT Framework |
+| `03` | Name Finder | `05` | Email Info |
+| `06` | Number Info | `07` | Dox Creator |
+| `08` | Simple Dox | `09` | Search DB |
+| `10` | IP Lookup | `11` | Username Hunter |
+| `12` | Domain Intel | `13` | Social Scraper |
+| `14` | VPN Detector | `15/16/17` | ⭐ Locked |
 
 ---
 
-### 💬 Discord‑Überwachung — Pages 4/14 & 5/14
+### 💣 Attack — Page 3/11
 
-> Vollständige Server‑Audits, Message‑Logger, Role‑Auditor.
+> Email bombing, DDoS, and SMS flooding tools.
 
-*Nur für eigene Server & mit schriftlicher Genehmigung.*
+![Attack](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/4.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
-| `01` | **Message‑Archiver** | `02` | **Role‑Permission‑Auditor** |
-| `03` | **Channel‑Sniffer (opt‑in)** | `04` | **Member‑Activity‑Tracker** |
-| `05` | **Backup‑Restore‑Pro** | `06` | **Webhook‑Manager** |
-| `07` | **Raid‑Simulation (Test)** | `08` | **Security‑Audit‑Bot** |
+| `01` | Email Bomber (Gmail) | `02` | Email Bomber (Reset) |
+| `03` | DDoS IP | `04` | DDoS Website |
+| `05` | SMS Bomber | `06/07` | ⭐ Locked |
 
 ---
 
-### 🌐 Zero‑Trace‑Netzwerk — Page 6/14
+### 🧨 Discord Nuker — Pages 4/11 & 5/11
 
-> Anonyme Scans über Tor/Proxy‑Chaining.
+> Full-featured Discord server destruction toolkit.
+
+![Nuker 1](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/5.PNG)
+![Nuker 2](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/6.PNG)
+
+**Part 1**
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
-| `01` | **Stealth‑WHOIS** | `02` | **Triangulation‑3D** |
-| `03` | **ASN‑Operator‑Lookup** | `04` | **Port‑Knocking‑Scanner** |
-| `05` | **ICMP‑Tunnel‑Test** | `06` | **Route‑Analyser** |
-| `07` | **Mass‑IP‑Generator** | `08` | **Dark‑Net‑Relay** |
+| `01` | Nuke | `02` | Auto Raid |
+| `03` | Ban All | `04` | Kick All |
+| `05` | Mute All | `06` | Unban All |
+| `07` | Delete Channels | `08` | Delete Emojis |
+| `09` | Delete Stickers | `10` | Create Channels |
+| `11` | Create Roles | `12` | Create Categories |
 
----
-
-### 🎁 Generatoren (Red Teaming) — Page 7/14
-
-> Realistische Test‑Payloads, Phishing‑Simulation, Token‑Fuzzing.
+**Part 2**
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
-| `01` | **JWT‑Fuzzer** | `02` | **Credential‑Generator** |
-| `03` | **Temp‑Mail‑Pool** | `04` | **QR‑Code‑Exploit‑Test** |
+| `01` | Rename Channels | `02` | Rename Roles |
+| `03` | Edit Server | `04` | Ghost Ping |
+| `05` | DM Spam | `06` | Webhook Spam |
+| `07` | Lockdown | `08` | Clone Server |
+| `09` | Message All | `10` | Mass Spam |
+| `11` | Mass Ban | `12` | Mass Kick |
+| `X` | Config Token | `00` | Start Nuker |
+| `T1` | Token Checker | `T2` | Server Cloner |
 
 ---
 
-### 🔐 Kryptografie & Steganografie — Page 8/14
+### 🌐 IP Tools — Page 6/11
+
+> Full IP intelligence and exploitation suite.
+
+![IP Tools](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/7.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
-| `01` | **Hash‑Cracker (GPU)** | `02` | **AES‑256‑Encryptor** |
-| `03` | **LSB‑Stegano‑Tool** | `04` | **Zero‑Knowledge‑Proofs** |
+| `01` | Web Lookup | `02` | IP Localisation |
+| `03` | IP Operator | `04` | IP Open Ports |
+| `05` | IP Pinger | `06` | IP DDoS |
+| `07` | IP Generator | `08/09` | ⭐ Locked |
 
 ---
 
-### 🔗 Ressourcen‑Datenbank — Pages 9–11/14
+### 🎁 Generator — Page 7/11
 
-> 500+ kuratierte OSINT‑, Forensic‑ und Threat‑Intel‑Links.
+> Generate gift cards and Discord Nitro codes.
 
-*Beispiele:* Shodan, Censys, GreyNoise, IntelX, DarkWeb‑Suchmaschinen.
+![Generator](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/8.PNG)
+
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| `01` | Discord Nitro | `02` | Amazon Giftcard |
+| `03` | Netflix Giftcard | `04` | Roblox Giftcard |
+| `05` | Apple Giftcard | `06` | Steam Giftcard |
+| `07` | Google Play | `08` | Spotify Giftcard |
+| `09/10/11` | ⭐ Locked | | |
 
 ---
 
-## 📋 Anforderungen (100x optimiert)
+### 🔐 Crypto & Utils — Page 8/11
 
-| Komponente | Version | Link |
+> Hash cracking, password generation, and disposable emails.
+
+![Crypto](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/9.PNG)
+
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| `01` | Hash Cracker | `02` | Password Generator |
+| `03` | Temp Mail | `04/05` | ⭐ Locked |
+
+---
+
+### 🌑 Dark Web — Pages 9/11 & 10/11
+
+> 28 curated dark web and OSINT links, all accessible in-tool.
+
+![Dark Web 1](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/10.PNG)
+![Dark Web 2](https://raw.githubusercontent.com/void4real/Void-Tools/main/Void/screenshots/11.PNG)
+
+| | | | |
+|--|--|--|--|
+| Mail2Tor | Hidden Wiki | ProPublica | DuckDuckGo |
+| SecureDrop | Sci-Hub | CIA Onion | Hidden Answers |
+| IPLogger | Grabify | Whatstheirip | Doxbin |
+| OSINT Industries | Epieos | Nuwber | OSINT Framework |
+| Whatsmyname | IPInfo | Stresser.zone | Stresse.ru |
+| StarkStresser | DDoS.services | Torch | Dark Mixer |
+| Onionwallet | Spylink | Danex | DataBase |
+
+---
+
+## 📋 Requirements
+
+| Dependency | Version | Link |
 |------------|---------|------|
-| Python | 3.12+ | [python.org](https://www.python.org/downloads/) |
-| Rust | Latest (für GPU‑Cracker) | [rustup.rs](https://rustup.rs/) |
-| Docker | 24+ (für Sandbox) | [docker.com](https://docker.com) |
-| Node.js | 20 LTS (optional) | [nodejs.org](https://nodejs.org/) |
+| Python | 3.11.5 | [Download](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe) |
+| Node.js | Latest | [Download](https://nodejs.org/en) |
 
 ---
 
-## ⚙️ Installation (Blitz‑Setup)
+## ⚙️ Installation
 
 ```bash
-# 1. Repo klonen oder ZIP entpacken
-# 2. Terminal im BND-Tools Ordner öffnen
-# 3. setup.py --full ausführen
-python setup.py --full
-
-# 4. Starten mit
-python bnd.py --mode operational
+# 1. Download and extract the ZIP from GitHub
+# 2. Open the BND-Tools folder
+# 3. Run setup.bat  →  installs all dependencies
+# 4. Run start.bat  →  launches the tool
