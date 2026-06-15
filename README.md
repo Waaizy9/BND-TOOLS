@@ -4,7 +4,7 @@
 
 ### v2 is live · 150+ tools · 13 themes · auto-updates · bilingual UI
 
-[![⬇ Download v2.0](https://img.shields.io/badge/⬇_Download-BND_TOOLS_v2.0-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
+[![⬇ Download v2.0]()](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
 [![⭐ Star v2.0](https://img.shields.io/badge/⭐_Star_v2.0-0000FF?style=for-the-badge)](https://github.com/waaizy9/BND-TOOLS/stargazers)
 [![Official Repo](https://img.shields.io/badge/Official-BND_TOOLS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS)
 
