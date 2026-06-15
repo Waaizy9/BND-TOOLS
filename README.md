@@ -34,8 +34,6 @@
   <a href="https://github.com/waaizy9/BND-TOOLS/network"><img src="https://img.shields.io/badge/89-0000FF?style=for-the-badge"></a>
   <a href="https://discord.gg/bnd"><img src="https://img.shields.io/badge/DISCORD-808080?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://discord.gg/bnd"><img src="https://img.shields.io/badge/discord.gg%2Fbnd-0000FF?style=for-the-badge"></a>
-  <a href="https://t.me/voidtool"><img src="https://img.shields.io/badge/TELEGRAM-808080?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://t.me/voidtool"><img src="https://img.shields.io/badge/t.me%2Fvoidtool-0000FF?style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-808080?style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/MIT-0000FF?style=for-the-badge"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-808080?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -62,7 +60,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/waaizy9/BND-TOOLS/stargazers"><img src="https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/star.gif"></a>
+  <a href="[https://github.com/waaizy9/BND-TOOLS/stargazers"><img src="https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/star.gif](https://media.discordapp.net/attachments/1514715936538755134/1516163402328703128/image.png?ex=6a31a4b4&is=6a305334&hm=2d973df30afbe5388000ac06e564bfff21d3de2159efc5f7e528f79a2dd2f535&=&format=webp&quality=lossless)"></a>
 </p>
 
 </div>
