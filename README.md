@@ -2,7 +2,7 @@
 
 #  BND TOOLS V2.0 — OUT NOW! 🧨
 
-### v2 is live · 150+ tools · 13 themes · auto-updates · bilingual UI
+### ⚡ Multiple tools · 13 themes · auto-updates · bilingual UI · Rich TUI
 
 <p align="center">
   <a href="https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD-808080?style=for-the-badge&logo=github&logoColor=white"></a>
