@@ -55,7 +55,44 @@
 
 </div>
 
+## ✦ // ROOT ACCESS :: BND TOOLS v2.0
+
+**BND TOOLS** is a modular, keyboard-driven terminal suite — forged in **Python** + **Rich**.
+One launcher. One dashboard. Total control.
+
+> [ FREE TOOLS ] → unlocked by default  
+> [ PREMIUM TOOLS ] → marked with [ GOLD BORDER ]
+
 ---
+
+### ⚡ CORE SPECS
+
+|── 🎨 [ 13 THEMES ]  
+│     Red · Green · Blue · Yellow · Purple · Cyan  
+│     Orange · Pink · Lime · White · Rose · Gold · RAINBOW  
+│  
+│── 🌍 [ DUAL LANGUAGE ]  
+│     EN / DE — full setup wizard + per-tool language engine  
+│  
+│── 🔍 [ SMART SEARCH ]  
+│     Fuzzy finder · filters: `free:` · `prem:` · `cat:discord`  
+│  
+│── 📡 [ REMOTE MANIFEST ]  
+│     Discord, shop & GitHub links — updateable via remote config  
+│  
+│── 🧩 [ PLUGIN SYSTEM ]  
+│     Drop custom scripts into `BND/tools/custom/` — auto-loaded  
+│  
+└── ⚡ [ ZERO FRICTION ]  
+       `setup.bat` → auto deps  
+       `start.bat` → launch the grid
+
+---
+
+### ⚠️ ACCESS RESTRICTION
+
+> Use only on targets you **OWN** or have **EXPLICIT WRITTEN PERMISSION** to test.  
+> Unauthorized access is a crime. You have been warned.
 
 > **⚖️ Legal notice:** This project is for **education and authorized research only**.  
 > See [DISCLAIMER.md](DISCLAIMER.md). Do not use against systems or people without permission.
