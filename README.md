@@ -1,4 +1,4 @@
-                            # BND-TOOLS RELEASE V1.0 🔷
+                            
 <div align="center">
 
 # 🚀 BND-TOOLS v2.0 — OUT NOW!
