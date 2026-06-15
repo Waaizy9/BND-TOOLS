@@ -14,6 +14,7 @@
 </p>
 
 *This repo is the **v1 archive**. Download **v2.0** for the current version.*
+*⚖️ Educational & authorized use only — see DISCLAIMER.md*
 
 <br>
 
