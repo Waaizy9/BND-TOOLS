@@ -1,8 +1,8 @@
 <div align="center">
 
-#  BND TOOLS V2.0 — OUT NOW! 🧨
+# 💙 BND TOOLS V2.0 — OUT NOW! 🧨
 
-###  Multiple tools · 13 themes · auto-updates · bilingual UI · Rich TUI
+### ⚡ Multiple tools · 13 themes · auto-updates · bilingual UI · Rich TUI
 
 <p align="center">
   <a href="https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD-808080?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -60,7 +60,7 @@
 <br>
 
 <p align="center">
-  <a href="[https://github.com/waaizy9/BND-TOOLS/stargazers"><img src="https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/star.gif](https://media.discordapp.net/attachments/1514715936538755134/1516163402328703128/image.png?ex=6a31a4b4&is=6a305334&hm=2d973df30afbe5388000ac06e564bfff21d3de2159efc5f7e528f79a2dd2f535&=&format=webp&quality=lossless)"></a>
+  <img src="https://media.discordapp.net/attachments/1514715936538755134/1516163402328703128/image.png?ex=6a31a4b4&is=6a305334&hm=2d973df30afbe5388000ac06e564bfff21d3de2159efc5f7e528f79a2dd2f535&=&format=webp&quality=lossless">
 </p>
 
 </div>
@@ -69,5 +69,3 @@
 
 > **⚖️ Legal notice:** This project is for **education and authorized research only**.  
 > See [DISCLAIMER.md](DISCLAIMER.md). Do not use against systems or people without permission.
-
-<!-- Rest des Dokuments bleibt unverändert (Overview, Categories, Requirements, Installation) -->
