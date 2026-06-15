@@ -13,7 +13,9 @@
   <a href="https://github.com/waaizy9/BND-TOOLS"><img src="https://img.shields.io/badge/REPO-0000FF?style=for-the-badge"></a>
 </p>
 
-⚖️ Educational & authorized use only — see DISCLAIMER.md
+
+
+> **⚖️ Educational & authorized use only** — see [DISCLAIMER.md](DISCLAIMER.md)
 
 <br>
 
