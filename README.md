@@ -60,9 +60,6 @@
 **BND TOOLS** is a modular, keyboard-driven terminal suite — forged in **Python** + **Rich**.
 One launcher. One dashboard. Total control.
 
-> [ FREE TOOLS ] → unlocked by default  
-> [ PREMIUM TOOLS ] → marked with [ GOLD BORDER ]
-
 ---
 
 ### ⚡ CORE SPECS
