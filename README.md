@@ -21,7 +21,7 @@
 
 <br>
 
-![BND Tools]([https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/1.PNG](https://media.discordapp.net/attachments/1514715936538755134/1516161373090873418/image.png?ex=6a31a2d0&is=6a305150&hm=621ca2c6d05b807694906c38484ad30476c683efb40cb0ca90d7c9137ecf9602&=&format=webp&quality=lossless))
+![BND Tools](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/1.PNG](https://media.discordapp.net/attachments/1514715936538755134/1516161373090873418/image.png?ex=6a31a2d0&is=6a305150&hm=621ca2c6d05b807694906c38484ad30476c683efb40cb0ca90d7c9137ecf9602&=&format=webp&quality=lossless))
 
 <br>
 
