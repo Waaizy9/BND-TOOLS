@@ -20,8 +20,8 @@
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/waaizy9/BND-TOOLS?color=0000FF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/stargazers)
-[![Forks](https://img.shields.io/github/forks/waaizy9/BND-TOOLS?color=0000FF&style=for-the-badge&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/network)
+[![Stars](https://img.shields.io/badge/Stars-1234-blue)]
+[![Forks](https://img.shields.io/badge/Forks-567-blue)]
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-0000FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bnd)
 [![License](https://img.shields.io/github/license/waaizy9/BND-TOOLS?color=0000FF&style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11+-0000FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
