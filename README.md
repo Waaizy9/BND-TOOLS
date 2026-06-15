@@ -1,7 +1,18 @@
 # BND-TOOLS RELEASE V1.0 🔷
-BND Tools v2 is live · 150+ utilities · 20+ modules · auto-updates · multilingual support
+<div align="center">
 
-⬇ Download BND Tools v2.0 ⭐ Star BND Tools Official Repository
+# 🔵 BND-TOOLS v2.0 — OUT NOW!
 
-This repository contains the legacy v1 archive.
-Download BND Tools v2.0 for the latest features, performance improvements, and ongoing updates.
+---
+
+### v2 is live · 150+ tools · 15 modules · auto-updates · modern UI
+
+[⬇ DOWNLOAD BND-TOOLS V2.0](#) &nbsp;&nbsp;
+[⭐ STAR V2.0](#) &nbsp;&nbsp;
+[🔷 OFFICIAL](#)
+
+<br>
+
+*This repo is the v1 archive. Download v2.0 for the current version.*
+
+</div>
