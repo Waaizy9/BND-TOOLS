@@ -1,6 +1,6 @@
 <div align="center">
 
-#  BND TOOLS V2.0 — OUT NOW! 🔷
+#  BND TOOLS V2.0 — OUT NOW! 🧨
 
 ### v2 is live · 150+ tools · 13 themes · auto-updates · bilingual UI
 
