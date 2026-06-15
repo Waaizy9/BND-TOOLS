@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🚀 VOID-TOOLS v2.0 — OUT NOW!
+# 💙 BND-TOOLS v2.0 — OUT NOW!
 
 ### v2 is live · 150+ tools · 13 themes · auto-updates · bilingual UI
 
-[![⬇ Download v2.0](https://img.shields.io/badge/⬇_Download-Void--Tools%20v2.0-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V0id-v2/Void-Tools-v2.0/archive/refs/heads/main.zip)
-[![⭐ Star v2.0](https://img.shields.io/github/stars/V0id-v2/Void-Tools-v2.0?color=FF2020&style=for-the-badge&label=⭐_Star_v2.0)](https://github.com/V0id-v2/Void-Tools-v2.0/stargazers)
-[![Official repo](https://img.shields.io/badge/Official-V0id--v2%2FVoid--Tools--v2.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V0id-v2/Void-Tools-v2.0)
+[![⬇ Download v2.0](https://img.shields.io/badge/⬇_Download-BND--Tools%20v2.0-0000CD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
+[![⭐ Star v2.0](https://img.shields.io/github/stars/waaizy9/BND-TOOLS?color=0000CD&style=for-the-badge&label=⭐_Star_v2.0)](https://github.com/waaizy9/BND-TOOLS/stargazers)
+[![Official repo](https://img.shields.io/badge/Official-waaizy9%2FBND--TOOLS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS)
 
 *This repo is the **v1 archive**. Download **v2.0** for the current version.*
 
@@ -16,32 +16,32 @@
 
 <br>
 
-![Void Tools](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/1.PNG)
+![BND Tools](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/1.PNG)
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/v0id4real/Void-Tools?color=ff0000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/v0id4real/Void-Tools/stargazers)
-[![Forks](https://img.shields.io/github/forks/v0id4real/Void-Tools?color=8b0000&style=for-the-badge&logoColor=white)](https://github.com/v0id4real/Void-Tools/network)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-ff0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v0id)
-[![License](https://img.shields.io/github/license/v0id4real/Void-Tools?color=ff0000&style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.11+-ff0000&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Stars](https://img.shields.io/github/stars/waaizy9/BND-TOOLS?color=0000CD&style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/stargazers)
+[![Forks](https://img.shields.io/github/forks/waaizy9/BND-TOOLS?color=0000CD&style=for-the-badge&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/network)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-0000CD?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bnd)
+[![License](https://img.shields.io/github/license/waaizy9/BND-TOOLS?color=0000CD&style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11+-0000CD&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
 
-> **VOID-TOOLS v1.0 — legacy archive**
+> **BND-TOOLS v1.0 — legacy archive**
 
 <br>
 
-### 📦 Active version → [**VOID-TOOLS v2.0**](https://github.com/V0id-v2/Void-Tools-v2.0)
+### 📦 Active version → [**BND-TOOLS v2.0**](https://github.com/waaizy9/BND-TOOLS)
 
-[![Download v2.0](https://img.shields.io/badge/Download-Void--Tools%20v2.0-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V0id-v2/Void-Tools-v2.0/archive/refs/heads/main.zip)
-[![Star v2.0](https://img.shields.io/github/stars/V0id-v2/Void-Tools-v2.0?color=FF2020&style=for-the-badge&label=Star%20v2.0)](https://github.com/V0id-v2/Void-Tools-v2.0/stargazers)
+[![Download v2.0](https://img.shields.io/badge/Download-BND--Tools%20v2.0-0000CD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
+[![Star v2.0](https://img.shields.io/github/stars/waaizy9/BND-TOOLS?color=0000CD&style=for-the-badge&label=Star%20v2.0)](https://github.com/waaizy9/BND-TOOLS/stargazers)
 
 *This repository stays online as **v1 archive**. New features, updates, and support are on **v2.0** only.*
 
 <br>
 
-[![Star](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/star.gif)](https://github.com/V0id-v2/Void-Tools-v2.0/stargazers)
+[![Star](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/star.gif)](https://github.com/waaizy9/BND-TOOLS/stargazers)
 
 </div>
 
@@ -54,14 +54,14 @@
 
 ## 🖥️ Overview
 
-**Void-Tools** is a terminal-based multitool built in Python with a Rich TUI dashboard.  
+**BND-TOOLS** is a terminal-based multitool built in Python with a Rich TUI dashboard.  
 It groups utilities for **OSINT research**, **network diagnostics**, **Discord helpers**, **generators**, and **everyday CLI tools** — in one place.
 
 Use only on data and systems you own or are explicitly allowed to test.
 
 <br>
 
-![Home](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/2.PNG)
+![Home](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/2.PNG)
 
 ---
 
@@ -73,7 +73,7 @@ Use only on data and systems you own or are explicitly allowed to test.
 
 > Public-data lookups and open-source intelligence helpers.
 
-![OSINT](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/3.PNG)
+![OSINT](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/3.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
@@ -91,7 +91,7 @@ Use only on data and systems you own or are explicitly allowed to test.
 
 > Productivity and network-related helpers (authorized use only).
 
-![Utilities](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/4.PNG)
+![Utilities](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/4.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
@@ -105,8 +105,8 @@ Use only on data and systems you own or are explicitly allowed to test.
 
 > Server management and moderation utilities for **your own servers**.
 
-![Discord 1](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/5.PNG)
-![Discord 2](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/6.PNG)
+![Discord 1](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/5.PNG)
+![Discord 2](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/6.PNG)
 
 Includes channel/role management, server info, backups, and configuration helpers.  
 Respect [Discord Terms of Service](https://discord.com/terms) at all times.
@@ -117,7 +117,7 @@ Respect [Discord Terms of Service](https://discord.com/terms) at all times.
 
 > IP geolocation, WHOIS-style info, port checks, and connectivity tests.
 
-![IP Tools](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/7.PNG)
+![IP Tools](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/7.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
@@ -132,7 +132,7 @@ Respect [Discord Terms of Service](https://discord.com/terms) at all times.
 
 > Demo / format generators for learning purposes.
 
-![Generator](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/8.PNG)
+![Generator](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/8.PNG)
 
 Gift-card and code **format demos** — not affiliated with any brand. For educational use only.
 
@@ -142,7 +142,7 @@ Gift-card and code **format demos** — not affiliated with any brand. For educa
 
 > Hash tools, password generation, and temporary email helpers.
 
-![Crypto](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/9.PNG)
+![Crypto](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/9.PNG)
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
@@ -155,8 +155,8 @@ Gift-card and code **format demos** — not affiliated with any brand. For educa
 
 > Curated **public** OSINT and research bookmarks (no illegal content).
 
-![Links 1](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/10.PNG)
-![Links 2](https://raw.githubusercontent.com/v0id4real/Void-Tools/main/Void/screenshots/11.PNG)
+![Links 1](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/10.PNG)
+![Links 2](https://raw.githubusercontent.com/waaizy9/BND-TOOLS/main/BND/screenshots/11.PNG)
 
 Examples: OSINT Framework, Epieos, public search engines, documentation hubs.
 
@@ -175,41 +175,6 @@ Examples: OSINT Framework, Epieos, public search engines, documentation hubs.
 
 ```bash
 # 1. Download and extract the ZIP from GitHub
-# 2. Open the Void-Tools folder
+# 2. Open the BND-TOOLS folder
 # 3. Run setup.bat  →  installs dependencies
 # 4. Run start.bat  →  launches the dashboard
-```
-
----
-
-## 🗺️ Roadmap
-
-| Status | Version |
-|--------|---------|
-| 📦 | **v1.0** — archived (this repo) |
-| ✅ | **v2.0** — active development |
-
-👉 **[Void-Tools v2.0 — official repo](https://github.com/V0id-v2/Void-Tools-v2.0)**  
-Download · updates · remote sync · 150+ tools
-
----
-
-## 📜 License
-
-Distributed under the **GNU AGPL v3.0** — see [LICENSE](https://github.com/v0id4real/Void-Tools/blob/main/LICENSE) and [DISCLAIMER.md](DISCLAIMER.md).
-
----
-
-## 💬 Support
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-discord.gg/v0id-ff0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v0id)
-
-**Community · updates · help**
-
-<br>
-
-*Legacy v1 archive — for the current version, star [**Void-Tools v2.0**](https://github.com/V0id-v2/Void-Tools-v2.0/stargazers).*
-
-</div>
