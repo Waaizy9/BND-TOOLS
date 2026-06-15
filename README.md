@@ -4,9 +4,14 @@
 
 ### v2 is live · 150+ tools · 13 themes · auto-updates · bilingual UI
 
-[![⬇ DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
-[![⭐ STAR v2.0](https://img.shields.io/badge/⭐_STAR_v2.0-0000FF?style=for-the-badge)](https://github.com/waaizy9/BND-TOOLS/stargazers)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
+[![v2.0](https://img.shields.io/badge/v2.0-0000FF?style=for-the-badge)](https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip)
+
+[![⭐ STAR](https://img.shields.io/badge/⭐_STAR-808080?style=for-the-badge)](https://github.com/waaizy9/BND-TOOLS/stargazers)
+[![v2.0](https://img.shields.io/badge/v2.0-0000FF?style=for-the-badge)](https://github.com/waaizy9/BND-TOOLS/stargazers)
+
 [![OFFICIAL](https://img.shields.io/badge/OFFICIAL-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waaizy9/BND-TOOLS)
+[![REPO](https://img.shields.io/badge/REPO-0000FF?style=for-the-badge)](https://github.com/waaizy9/BND-TOOLS)
 
  Download **v2.0** for the current version.*
 
