@@ -45,14 +45,7 @@
 > **BND TOOLS v1.0 — legacy archive**
 <br>
 
-<p align="center">
-  <a href="https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD-808080?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/V2.0-0000FF?style=for-the-badge"></a>
-  <a href="https://github.com/waaizy9/BND-TOOLS/stargazers"><img src="https://img.shields.io/badge/STAR-808080?style=for-the-badge"></a>
-  <a href="https://github.com/waaizy9/BND-TOOLS/stargazers"><img src="https://img.shields.io/badge/V2.0-0000FF?style=for-the-badge"></a>
-</p>
 
-*This repository stays online as **v1 archive**. New features, updates, and support are on **v2.0** only.*
 
 <br>
 
