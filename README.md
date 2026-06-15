@@ -1,143 +1,183 @@
-# BND-TOOLS
+<div align="center">
 
-[![Stars](https://img.shields.io/github/stars/USERNAME/BND-TOOLS?color=0000CD&style=for-the-badge)](https://github.com/USERNAME/BND-TOOLS/stargazers)
-[![Forks](https://img.shields.io/github/forks/USERNAME/BND-TOOLS?color=0000CD&style=for-the-badge)](https://github.com/USERNAME/BND-TOOLS/forks)
-[![Discord](https://img.shields.io/badge/DISCORD-JOIN-0000CD?style=for-the-badge&logo=discord)](https://discord.gg/xxx)
-[![License](https://img.shields.io/badge/LICENSE-MIT-0000CD?style=for-the-badge)](LICENSE)
+# 🕵️‍♂️ BND-TOOLS v3.0 — KLASSIFIZIERT
+
+### Freigegeben für operative Analyse · 320+ Module · Echtzeit-OSINT · KI-gestützt
+
+[![⬇ Download v3.0](https://img.shields.io/badge/⬇_Download-BND--Tools%20v3.0-0055FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools-v3.0/archive/refs/heads/main.zip)
+[![⭐ Star v3.0](https://img.shields.io/github/stars/bnd-tools/BND-Tools-v3.0?color=0055FF&style=for-the-badge&label=⭐_Star_v3.0)](https://github.com/bnd-tools/BND-Tools-v3.0/stargazers)
+[![Official repo](https://img.shields.io/badge/Official-BND--Tools%20v3.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools-v3.0)
+
+*Dieses Repo ist das **v2.0 Archiv**. Lade **v3.0** für die aktuelle, 100x bessere Version.*
+
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-# 🚀 BND-TOOLS v2.0 — OUT NOW!
+![BND Tools](https://raw.githubusercontent.com/bnd-tools/BND-Tools/main/assets/dashboard.png)
 
-**v2 is live · 150+ tools · custom modules · auto-updates · bilingual UI**
+<br>
 
-[![DOWNLOAD v2.0](https://img.shields.io/badge/⬇_DOWNLOAD_BND--TOOLS_V2.0-0000CD?style=for-the-badge)](#)
-[![STAR v2.0](https://img.shields.io/badge/⭐_STAR_V2.0-2.2K-0000CD?style=for-the-badge)](#)
-[![OFFICIAL REPO](https://img.shields.io/badge/OFFICIAL-REPOSITORY-0000CD?style=for-the-badge)](#)
+[![Stars](https://img.shields.io/github/stars/bnd-tools/BND-Tools?color=0055FF&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools/stargazers)
+[![Forks](https://img.shields.io/github/forks/bnd-tools/BND-Tools?color=0033AA&style=for-the-badge&logoColor=white)](https://github.com/bnd-tools/BND-Tools/network)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Secure%20Channel-0055FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bndtools)
+[![License](https://img.shields.io/github/license/bnd-tools/BND-Tools?color=0055FF&style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12+-0055FF&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-*This repo is the v1 archive. Download v2.0 for the current version.*
+<br>
+
+> **BND-TOOLS v3.0 — next‑gen intelligence framework**
+
+<br>
+
+### 🚀 Aktiviert die Zukunft → [**BND-TOOLS v3.0**](https://github.com/bnd-tools/BND-Tools-v3.0)
+
+[![Download v3.0](https://img.shields.io/badge/Download-BND--Tools%20v3.0-0055FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bnd-tools/BND-Tools-v3.0/archive/refs/heads/main.zip)
+[![Star v3.0](https://img.shields.io/github/stars/bnd-tools/BND-Tools-v3.0?color=0055FF&style=for-the-badge&label=Star%20v3.0)](https://github.com/bnd-tools/BND-Tools-v3.0/stargazers)
+
+*Dieses Repository bleibt als **v2.0 Archiv** online. Alle neuen Funktionen, Updates und Support gibt es nur für **v3.0**.*
+
+<br>
+
+[![Star](https://raw.githubusercontent.com/bnd-tools/BND-Tools/main/assets/star.gif)](https://github.com/bnd-tools/BND-Tools-v3.0/stargazers)
 
 </div>
 
 ---
 
-## 📦 BND-TOOLS v1.0 — Legacy Archive
-
-### 🚀 Active version → [BND-TOOLS v2.0](https://github.com/USERNAME/BND-TOOLS-V2)
-
-[![DOWNLOAD v2.0](https://img.shields.io/badge/DOWNLOAD_BND--TOOLS_V2.0-0000CD?style=for-the-badge)](#)
-[![STAR v2.0](https://img.shields.io/badge/STAR_V2.0-2.2K-0000CD?style=for-the-badge)](#)
-
-This repository stays online as a **v1 archive**.
-
-New features, updates, modules, improvements, and support are available exclusively on **BND-TOOLS v2.0**.
+> **⚖️ Rechtlicher Hinweis:** Dieses Projekt dient ausschließlich **staatlich genehmigten Tests, Bildungszwecken und autorisierten Sicherheitsanalysen**.  
+> Siehe [DISCLAIMER.md](DISCLAIMER.md). Nicht gegen Personen oder Systeme ohne schriftliche Genehmigung verwenden.
 
 ---
 
-> **⚖️ Legal notice:** This project is for education and authorized research only.  
-> See DISCLAIMER.md. Do not use against systems or people without permission.
+## 🖥️ Überblick
+
+**BND-Tools** ist ein terminalbasiertes Multitool in Python mit einer **asynchronen, KI-optimierten TUI**.  
+Es bündelt **320+ Module** für:
+- **Echtzeit-OSINT**
+- **Telemetrie-Analyse**
+- **Deep‑Web‑Scraping**
+- **Forensik & Incident Response**
+- **Discord‑Überwachung (eigene Server)**
+- **Zero‑Trace‑Netzwerkscans**
+
+Nutzung nur auf eigenen oder explizit freigegebenen Systemen.
+
+<br>
+
+![Home](https://raw.githubusercontent.com/bnd-tools/BND-Tools/main/assets/home.png)
 
 ---
 
-## 🖥️ Overview
+## ⚡ Kategorien (100x verbessert)
 
-**BND-TOOLS** is a modern Python-based multitool featuring a powerful dashboard, modular architecture, automatic updates, and a growing ecosystem of utilities.
+<br>
 
-The project combines productivity tools, automation modules, networking utilities, management features, and community integrations into a single platform.
+### 🔍 OSINT & Aufklärung — Page 2/14
 
----
-
-## ⚡ Categories
-
-### 🛠️ Utilities — Page 2/11
+> Automatisierte öffentliche Datenanalyse + KI‑Cross‑Referenz.
 
 | Key | Tool | Key | Tool |
-|------|------|------|------|
-| 01 | File Manager | 02 | Network Tools |
-| 03 | Process Monitor | 04 | System Information |
-| 05 | Automation Tools | 06+ | Premium Modules |
+|-----|------|-----|------|
+| `01` | **Deep‑Link Hub** (Dark/Clr) | `02` | **OSINT Framework Pro** |
+| `03` | **Persona‑Fingerprint** | `05` | **E‑Mail‑Breach‑Lookup** |
+| `06` | **Telefon‑Tracking** | `07` | **Social‑Profile‑Builder** |
+| `08` | **Forensischer Report** (PDF) | `09` | **Leaked‑DB‑Scanner** |
+| `10` | **Geo‑IP‑Radar** | `11` | **Username‑Tracker** (25+ Sites) |
+| `12` | **Domain‑Intelligence** | `13` | **Social‑Media‑Scraper** |
+| `14` | **VPN/Tor‑Erkennung** | `15` | **KI‑Persona‑Analyse** |
 
 ---
 
-### 🌐 Network — Page 3/11
+### 🛠️ Forensik & Response — Page 3/14
+
+> Memory‑Dumping, Log‑Analyse, Live‑Forensik.
 
 | Key | Tool | Key | Tool |
-|------|------|------|------|
-| 01 | IP Lookup | 02 | Port Scanner |
-| 03 | DNS Tools | 04 | Connectivity Check |
-| 05 | Host Information | 06+ | Premium Modules |
+|-----|------|-----|------|
+| `01` | **Email‑Header‑Analyse** | `02` | **Account‑Recovery‑Sim** |
+| `03` | **Network‑Threat‑Scanner** | `04` | **Web‑App‑Fuzzer** |
+| `05` | **SMS‑Spoof‑Test** | `06` | **Memory‑Dumper** |
+| `07` | **Registry‑Forensik** | `08` | **Timeline‑Rebuilder** |
 
 ---
 
-### 💬 Discord — Pages 4/11 & 5/11
+### 💬 Discord‑Überwachung — Pages 4/14 & 5/14
 
-Server management and moderation utilities for your own servers.
+> Vollständige Server‑Audits, Message‑Logger, Role‑Auditor.
 
-- Server Information
-- Role Management
-- Backup System
-- Configuration Manager
-- Logging Tools
-
-*Respect Discord Terms of Service at all times.*
-
----
-
-### 🔐 Security — Page 6/11
+*Nur für eigene Server & mit schriftlicher Genehmigung.*
 
 | Key | Tool | Key | Tool |
-|------|------|------|------|
-| 01 | Hash Tools | 02 | Password Generator |
-| 03 | Encryption Utilities | 04 | Token Inspector |
-| 05+ | Premium Modules | | |
+|-----|------|-----|------|
+| `01` | **Message‑Archiver** | `02` | **Role‑Permission‑Auditor** |
+| `03` | **Channel‑Sniffer (opt‑in)** | `04` | **Member‑Activity‑Tracker** |
+| `05` | **Backup‑Restore‑Pro** | `06` | **Webhook‑Manager** |
+| `07` | **Raid‑Simulation (Test)** | `08` | **Security‑Audit‑Bot** |
 
 ---
 
-### 🎁 Generators — Page 7/11
+### 🌐 Zero‑Trace‑Netzwerk — Page 6/14
 
-- Password Generator
-- UUID Generator
-- QR Generator
-- Random Data Generator
-- Template Generator
+> Anonyme Scans über Tor/Proxy‑Chaining.
 
----
-
-### 🔗 Resource Links — Pages 8/11 & 9/11
-
-Curated public OSINT and research bookmarks (no illegal content).
-
-Examples: OSINT Framework, public search engines, documentation hubs.
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| `01` | **Stealth‑WHOIS** | `02` | **Triangulation‑3D** |
+| `03` | **ASN‑Operator‑Lookup** | `04` | **Port‑Knocking‑Scanner** |
+| `05` | **ICMP‑Tunnel‑Test** | `06` | **Route‑Analyser** |
+| `07` | **Mass‑IP‑Generator** | `08` | **Dark‑Net‑Relay** |
 
 ---
 
-## 📊 Statistics
+### 🎁 Generatoren (Red Teaming) — Page 7/14
 
-| Feature | Count |
-|----------|---------|
-| Tools | 150+ |
-| Modules | 25+ |
-| Themes | 15+ |
-| Updates | Automatic |
-| Languages | Multi-Language |
+> Realistische Test‑Payloads, Phishing‑Simulation, Token‑Fuzzing.
+
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| `01` | **JWT‑Fuzzer** | `02` | **Credential‑Generator** |
+| `03` | **Temp‑Mail‑Pool** | `04` | **QR‑Code‑Exploit‑Test** |
 
 ---
 
-## 📋 Requirements
+### 🔐 Kryptografie & Steganografie — Page 8/14
 
-| Dependency | Version | Link |
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| `01` | **Hash‑Cracker (GPU)** | `02` | **AES‑256‑Encryptor** |
+| `03` | **LSB‑Stegano‑Tool** | `04` | **Zero‑Knowledge‑Proofs** |
+
+---
+
+### 🔗 Ressourcen‑Datenbank — Pages 9–11/14
+
+> 500+ kuratierte OSINT‑, Forensic‑ und Threat‑Intel‑Links.
+
+*Beispiele:* Shodan, Censys, GreyNoise, IntelX, DarkWeb‑Suchmaschinen.
+
+---
+
+## 📋 Anforderungen (100x optimiert)
+
+| Komponente | Version | Link |
 |------------|---------|------|
-| Python | 3.11+ | [python.org](https://python.org) |
-| Node.js | Latest (optional) | [nodejs.org](https://nodejs.org) |
+| Python | 3.12+ | [python.org](https://www.python.org/downloads/) |
+| Rust | Latest (für GPU‑Cracker) | [rustup.rs](https://rustup.rs/) |
+| Docker | 24+ (für Sandbox) | [docker.com](https://docker.com) |
+| Node.js | 20 LTS (optional) | [nodejs.org](https://nodejs.org/) |
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation (Blitz‑Setup)
 
 ```bash
-# 1. Download and extract the ZIP from GitHub
-# 2. Open the BND-TOOLS folder
-# 3. Run setup.bat  →  installs dependencies
-# 4. Run start.bat  →  launches the dashboard
+# 1. Repo klonen oder ZIP entpacken
+# 2. Terminal im BND-Tools Ordner öffnen
+# 3. setup.py --full ausführen
+python setup.py --full
+
+# 4. Starten mit
+python bnd.py --mode operational
