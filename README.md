@@ -32,8 +32,8 @@
   <a href="https://github.com/waaizy9/BND-TOOLS/stargazers"><img src="https://img.shields.io/badge/245-0000FF?style=for-the-badge"></a>
   <a href="https://github.com/waaizy9/BND-TOOLS/network"><img src="https://img.shields.io/badge/FORKS-808080?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/waaizy9/BND-TOOLS/network"><img src="https://img.shields.io/badge/89-0000FF?style=for-the-badge"></a>
-  <a href="[https://discord.gg/MJeUpXuxTZ](https://discord.gg/MJeUpXuxTZ)"><img src="https://img.shields.io/badge/DISCORD-808080?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="[](https://discord.gg/MJeUpXuxTZ)](https://discord.gg/MJeUpXuxTZ)](https://discord.gg/MJeUpXuxTZ)"><img src="https://img.shields.io/badge/discord.gg%2Fbnd-0000FF?style=for-the-badge"></a>
+  <a href="https://discord.gg/MJeUpXuxTZ"><img src="https://img.shields.io/badge/DISCORD-808080?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/MJeUpXuxTZ"><img src="https://img.shields.io/badge/discord.gg%2Fbnd-0000FF?style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-808080?style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/MIT-0000FF?style=for-the-badge"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-808080?style=for-the-badge&logo=python&logoColor=white"></a>
