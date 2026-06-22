@@ -47,13 +47,9 @@
 
 
 
-<br>
+## 📺 Tutorial Video
 
-##  Tutorial for Download !
-
-[▶️ Download-Tutorial ansehen (MP4)](https://cdn.discordapp.com/attachments/1511735218812485632/1518735605499166731/Download_tutorial.mp4)
-
-</div>
+[📥 Tutorial Download (MP4)](https://cdn.discordapp.com/attachments/1511735218812485632/1518735605499166731/Download_tutorial.mp4?ex=6a3b0041&is=6a39aec1&hm=512086e7a7e91862540e6aa08004c3ac7537e11e01f95310484cec5d15df5846&)
 
 ## ✦ // ROOT ACCESS :: BND TOOLS v2.0
 
