@@ -49,9 +49,9 @@
 
 <br>
 
-<p align="center">
-  <img src="[https://media.discordapp.net/attachments/1514715936538755134/1516163402328703128/image.png?ex=6a31a4b4&is=6a305334&hm=2d973df30afbe5388000ac06e564bfff21d3de2159efc5f7e528f79a2dd2f535&=&format=webp&quality=lossless](https://cdn.discordapp.com/attachments/1511735218812485632/1518735605499166731/Download_tutorial.mp4?ex=6a3b0041&is=6a39aec1&hm=512086e7a7e91862540e6aa08004c3ac7537e11e01f95310484cec5d15df5846&)">
-</p>
+##  Tutorial for Download !
+
+[▶️ Download-Tutorial ansehen (MP4)](https://cdn.discordapp.com/attachments/1511735218812485632/1518735605499166731/Download_tutorial.mp4)
 
 </div>
 
