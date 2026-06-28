@@ -1,0 +1,11 @@
+[project]
+name = "bnd-tools"
+version = "2.0.0"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+test = ["pytest>=7.0", "rich"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
