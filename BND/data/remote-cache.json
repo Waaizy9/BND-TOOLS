@@ -1,0 +1,21 @@
+{
+  "config_rev": "1",
+  "latest_version": "2.0.0",
+  "download_url": "https://github.com/waaizy9/BND-TOOLS/releases",
+  "zip_url": "https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip",
+  "announcement": {
+    "title_de": "🔥 BND TOOLS V2.0 IST DA!",
+    "title_en": "🔥 BND TOOLS V2.0 IS HERE!",
+    "body_de": "BND TOOLS V2.0 mit Matrix Rain Boot Sequence\n\n🔵 **NEUE FEATURES:**\n◆ Matrix Rain Effect (#0000CD)\n◆ White Scan Animation\n◆ Cinematic Boot Sequence\n◆ Minimal Matrix im Hintergrund\n\n📥 **DOWNLOAD:**\n◆ GitHub: github.com/waaizy9/BND-TOOLS\n\n⭐ Jetzt updaten!",
+    "body_en": "BND TOOLS V2.0 with Matrix Rain Boot Sequence\n\n🔵 **NEW FEATURES:**\n◆ Matrix Rain Effect (#0000CD)\n◆ White Scan Animation\n◆ Cinematic Boot Sequence\n◆ Minimal Matrix Background\n\n📥 **DOWNLOAD:**\n◆ GitHub: github.com/waaizy9/BND-TOOLS\n\n⭐ Update now!"
+  },
+  "links": {
+    "telegram": "",
+    "discord": "https://discord.gg/MJeUpXuxTZ",
+    "github": "https://github.com/waaizy9/BND-TOOLS",
+    "shop": ""
+  },
+  "changelog": "BND-TOOLS v2.0.0\n- Complete rebrand from Void to BND\n- New Matrix Rain boot effect (#0000CD Blue)\n- White scan animation through logo\n- Heavy matrix rain at start, minimal during prompt\n- Clean MIT License\n- New folder structure (lib/boot.py)\n\nBND-TOOLS v1.0.0\n- Initial release\n- Basic boot sequence\n- Blue theme",
+  "_fetched_at": 1781529544.2580223,
+  "_source": "cache"
+}

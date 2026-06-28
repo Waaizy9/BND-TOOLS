@@ -1,0 +1,19 @@
+{
+  "config_rev": "1",
+  "latest_version": "2.0.0",
+  "download_url": "https://github.com/waaizy9/BND-TOOLS/releases",
+  "zip_url": "https://github.com/waaizy9/BND-TOOLS/archive/refs/heads/main.zip",
+  "announcement": {
+    "title_de": "🔥 BND TOOLS v2.0 — AKTUALISIERUNG VERFÜGBAR!",
+    "title_en": "🔥 BND TOOLS v2.0 — UPDATE AVAILABLE!",
+    "body_de": "BND TOOLS v2.0 ist jetzt verfügbar!\n\n🔵 **NEUE FEATURES:**\n◆ Matrix Rain Effect (#0000CD Blue)\n◆ White Scan Animation durch das Logo\n◆ Cinematic Boot Sequence\n◆ Minimal Matrix Hintergrund beim Prompt\n◆ Dual Matrix System (Heavy → Minimal)\n\n📥 **LINKS:**\n◆ GitHub: github.com/waaizy9/BND-TOOLS\n\n⭐ Jetzt aktualisieren!",
+    "body_en": "BND TOOLS v2.0 is now available!\n\n🔵 **NEW FEATURES:**\n◆ Matrix Rain Effect (#0000CD Blue)\n◆ White Scan Animation through logo\n◆ Cinematic Boot Sequence\n◆ Minimal Matrix Background on prompt\n◆ Dual Matrix System (Heavy → Minimal)\n\n📥 **LINKS:**\n◆ GitHub: github.com/waaizy9/BND-TOOLS\n\n⭐ Update now!"
+  },
+  "links": {
+    "discord": "https://discord.gg/MJeUpXuxTZ",
+    "github": "https://github.com/waaizy9/BND-TOOLS",
+    "shop": "",
+    "telegram": ""
+  },
+  "changelog": "BND-TOOLS v2.0.0\n- Complete rebrand from Void to BND\n- New Matrix Rain boot effect (#0000CD Blue)\n- White scan animation through logo\n- Heavy matrix rain at start, minimal during prompt\n- Clean MIT License\n- New folder structure (lib/boot.py)\n- German language support\n\nBND-TOOLS v1.0.0\n- Initial release\n- Basic boot sequence"
+}
